@@ -1,2 +1,5 @@
 # hello-world
-Repository for COMP 383 Miniproject
+
+Hello
+
+Welcome to my Github, feel free to peruse my Repo's.
